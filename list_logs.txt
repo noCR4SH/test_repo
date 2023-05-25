@@ -1,0 +1,50 @@
+commit 3eaced9b22ab9be50fa73edffb51bb14c451788a
+Author: Wojciech Niekrasz <wojciech.niekrasz@gmail.com>
+Date:   Thu May 25 19:31:23 2023 +0200
+
+    restored file based on previous commit
+
+diff --git a/shopping_list.txt b/shopping_list.txt
+new file mode 100644
+index 0000000..967ad9a
+--- /dev/null
++++ b/shopping_list.txt
+@@ -0,0 +1,3 @@
++- Butter
++- Bread
++- Eggs
+\ No newline at end of file
+
+commit 65d9fb469a321a210444b6a47e8f7c1035fa7c7d
+Author: Wojciech Niekrasz <wojciech.niekrasz@gmail.com>
+Date:   Thu May 25 19:23:19 2023 +0200
+
+    shopping list deletion
+
+diff --git a/shopping_list.txt b/shopping_list.txt
+deleted file mode 100644
+index 967ad9a..0000000
+--- a/shopping_list.txt
++++ /dev/null
+@@ -1,3 +0,0 @@
+-- Butter
+-- Bread
+-- Eggs
+\ No newline at end of file
+
+commit 94a27a72dab1c056b89018d26d067904790414d4
+Author: Wojciech Niekrasz <wojciech.niekrasz@gmail.com>
+Date:   Thu May 25 19:21:31 2023 +0200
+
+    added shopping list
+
+diff --git a/shopping_list.txt b/shopping_list.txt
+new file mode 100644
+index 0000000..967ad9a
+--- /dev/null
++++ b/shopping_list.txt
+@@ -0,0 +1,3 @@
++- Butter
++- Bread
++- Eggs
+\ No newline at end of file

@@ -1,0 +1,47 @@
+commit 83405a6fc7a9ce98b6dc738cbcee44e45d0bc7ab
+Author: Wojciech Niekrasz <wojciech.niekrasz@gmail.com>
+Date:   Thu May 25 19:37:41 2023 +0200
+
+    modified test file
+
+commit 3eaced9b22ab9be50fa73edffb51bb14c451788a
+Author: Wojciech Niekrasz <wojciech.niekrasz@gmail.com>
+Date:   Thu May 25 19:31:23 2023 +0200
+
+    restored file based on previous commit
+
+commit 9c07ac7596c2f4ec748f94614b118410f3e29a90
+Author: Wojciech Niekrasz <wojciech.niekrasz@gmail.com>
+Date:   Thu May 25 19:26:52 2023 +0200
+
+    list_carss deletion and new file
+
+commit 65d9fb469a321a210444b6a47e8f7c1035fa7c7d
+Author: Wojciech Niekrasz <wojciech.niekrasz@gmail.com>
+Date:   Thu May 25 19:23:19 2023 +0200
+
+    shopping list deletion
+
+commit 94a27a72dab1c056b89018d26d067904790414d4
+Author: Wojciech Niekrasz <wojciech.niekrasz@gmail.com>
+Date:   Thu May 25 19:21:31 2023 +0200
+
+    added shopping list
+
+commit 568c1dde98889367dcea83f3b156556362c26bda
+Author: Wojciech Niekrasz <wojciech.niekrasz@gmail.com>
+Date:   Thu May 25 19:20:01 2023 +0200
+
+    renaming file again
+
+commit 994867335af23a20d108ef17186354908713752a
+Author: Wojciech Niekrasz <wojciech.niekrasz@gmail.com>
+Date:   Thu May 25 19:18:02 2023 +0200
+
+    renamed first file
+
+commit f2d95723d7a591942134473e0129d101d62f7aa3
+Author: Wojciech Niekrasz <wojciech.niekrasz@gmail.com>
+Date:   Thu May 25 19:08:52 2023 +0200
+
+    added first file
